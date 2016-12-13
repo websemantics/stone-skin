@@ -16,7 +16,7 @@
 ```
 > A replica of the [Stone Theme](https://github.com/websemantics/stone-theme)
 
-![](https://github.com/websemantics/github-skin/raw/master/resources/img/stone.png)
+![](https://github.com/websemantics/stone-skin/raw/master/resources/img/stone.png)
 
 ## Install
 
