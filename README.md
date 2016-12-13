@@ -16,6 +16,8 @@
 ```
 > A replica of the [Stone Theme](https://github.com/websemantics/stone-theme)
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/stone.png)
+
 ## Install
 
 1- Use `composer ` to install,
