@@ -1,0 +1,19 @@
+{
+    "name": "websemantics/stone-skin",
+    "description": "A replica of the Stone Theme",
+    "type": "pyrocms-theme-skin",
+    "keywords": [
+        "websemantics",
+        "pyrocms",
+        "theme",
+        "skin"
+    ],
+    "require": {
+        "websemantics/pyrocms-theme": "*"
+    },
+    "autoload": {
+        "psr-4": {
+          "Websemantics\\StoneSkin\\": "src/"
+        }
+    }
+}
