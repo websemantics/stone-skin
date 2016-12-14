@@ -1,6 +1,10 @@
 ## Change Log
 All notable changes to this project will be documented in this section.
 
+#### [0.1.2] - 14/12/2016
+##### Changed
+- Fix missing variable
+
 #### [0.1.1] - 13/12/2016
 ##### Changed
 - Improve style inheritance between theme and skin
