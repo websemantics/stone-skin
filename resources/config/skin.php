@@ -4,13 +4,13 @@ return [
 
   /*
   |--------------------------------------------------------------------------
-  | Style import
+  | Relative path to skin styles
   |--------------------------------------------------------------------------
   |
-  | Relative location of the main skin import file, `skin.scss`.
+  | The skin folder should contain `skin.scss` and `_variables.scss` at minimum.
   |
   */
-  'import' => __DIR__ . '/../scss/skin.scss',
+  'import' => __DIR__ . '/../scss',
 
   /*
   |--------------------------------------------------------------------------
